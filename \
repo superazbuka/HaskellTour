@@ -1,0 +1,32 @@
+Функции:
+- на с++
+- в математики
+- как програмировать с помощю этих функций?
+Haskell:
+Пример декартач
+Функции:
+функции и как ими пользоватся
+f :: Int
+f :: Int -> Int
+f :: (Int, Int) -> Int
+f :: Int -> Int -> Int
+Типы данных:
+Как задавать сложение и умножение
+Стандартные типы данных (a, b) [a]
+Приемы:
+Сопоставление с образцом
+охранные выражения
+
+Задчи:
+переворот листа
+числа фибоначи
+факториал
+
+Операторы:
++ - ... $ :
+Классы типов:
+http://hackage.haskell.org/package/base-4.12.0.0/docs/Data-Ord.html
+http://hackage.haskell.org/package/base-4.12.0.0/docs/Data-Eq.html
+https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#t:Num
+
+

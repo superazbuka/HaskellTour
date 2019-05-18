@@ -1,0 +1,58 @@
+Функции:
+- на с++
+- в математики
+- как програмировать с помощю этих функций?
+Haskell:
+Пример декартач
+Функции:
+функции и как ими пользоватся
+f :: Int
+f :: Int -> Int
+f :: (Int, Int) -> Int
+f :: Int -> Int -> Int
+Типы данных:
+Как задавать сложение и умножение
+Стандартные типы данных (a, b) [a] Maybe
+Приемы:
+Сопоставление с образцом
+охранные выражения
+
+Задчи:
+определить число и сложение и вычитание
+переворот листа
+числа фибоначи
+факториал
+
+Операторы:
++ - ... $ :
+
+функции над функциами:
+map fold filter
+
+написать реализации
+
+Классы типов:
+http://hackage.haskell.org/package/base-4.12.0.0/docs/Data-Foldable.html
+http://hackage.haskell.org/package/base-4.12.0.0/docs/Data-Ord.html
+http://hackage.haskell.org/package/base-4.12.0.0/docs/Data-Eq.html
+https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#t:Num
+
+Написать реализацию foldable для Tree
+
+Проблемы и их решения
+
+Mонады:
+Основные задачи
+
+http://hackage.haskell.org/package/base-4.12.0.0/docs/Control-Monad.html#v:-62--62--61-
+
+do нотация
+
+Maybe
+List
+IO
+
+Задачи:
+дерево отрезков с отложенными опирациями
+2-3 дерево
+
